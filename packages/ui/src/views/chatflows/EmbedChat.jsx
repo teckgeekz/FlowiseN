@@ -180,13 +180,13 @@ const chatwindowConfig = (isReact = false) => {
                     footer: {
                         textColor: '#303235',
                         text: 'Powered by',
-                        company: 'Flowise',
-                        companyLink: 'https://flowiseai.com',
+                        company: 'Teckgeekz',
+                        companyLink: 'https://teckgeekz.com',
                     }
                 }`
         : `chatWindow: {
                 showTitle: true,
-                title: 'Flowise Bot',
+                title: 'Teckgeekz Bot',
                 titleAvatarSrc: 'https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/google-messages.svg',
                 showAgentMessages: true,
                 welcomeMessage: 'Hello! This is custom welcome message',
