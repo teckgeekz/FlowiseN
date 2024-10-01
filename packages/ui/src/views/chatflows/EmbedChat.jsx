@@ -230,8 +230,8 @@ const chatwindowConfig = (isReact = false) => {
                 footer: {
                     textColor: '#303235',
                     text: 'Powered by',
-                    company: 'Flowise',
-                    companyLink: 'https://flowiseai.com',
+                    company: 'Teckgeekz',
+                    companyLink: 'https://teckgeekz.com',
                 }
             }`
 }
